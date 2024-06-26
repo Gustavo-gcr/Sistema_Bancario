@@ -8,11 +8,11 @@ O programa utiliza uma estrutura simples de classes e métodos para gerenciar as
 
 ## Funcionalidades disponíveis:
 ### O sistema utiliza do Excel para persistir as informações, agindo como um Banco de Dados em menor proporção
-- **Cadastro de Usuário:** Registre novos clientes fornecendo nome, idade, saldo inicial e endereço.
+- **Cadastro de Usuário:** Registre novos clientes fornecendo nome, idade, saldo inicial .
 - **Depósito:** Adicione dinheiro à conta de um usuário existente.
-- **Pagamento:** Realize pagamentos, deduzindo o valor do saldo da conta.
+- **Pagamento:** Realize pagamentos, descontando no valor do saldo do usuario.
 - **Ver Saldo:** Consulte o saldo atual de uma conta.
-- **Atualizar Conta:** Atualize informações de um cliente existente, como nome, idade, saldo e endereço.
+- **Atualizar Conta:** Atualize informações de um cliente existente, como nome, idade, saldo.
 - **Excluir Conta:** Remova uma conta existente do sistema.
 
 ## Como usar:
